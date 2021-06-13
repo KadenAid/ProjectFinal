@@ -1,0 +1,19 @@
+{
+    "radios": [
+        {
+               "id": 1,
+               "name": "Lofi",
+               "tagline": "Lofi is love",
+               "color": "0xffa11431",
+               "desc": "The chills you get when you listen to music, is mostly caused by the brain releasing dopamine while anticipating the peak moment of a song.",
+               "url": "https://lofi.stream.laut.fm/lofi?ref=radiode&t302=2021-06-07_19-03-10&uuid=d46e3be3-4b3e-4fe6-a8ad-42856bc799dd",
+               "icon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/m8afyszryaqt.png",
+               "image": "https://i.pinimg.com/originals/56/fb/19/56fb19006ba954580e9a0820ef289a6a.jpg",
+               "lang": "eng",
+               "category": "lofi",
+               "disliked": false,
+               "order": 1
+           }
+    ]
+}
+           
